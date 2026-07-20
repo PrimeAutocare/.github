@@ -1,4 +1,4 @@
-# PrimeAutocare | A self-sustaining simulated worklog, invoicing, and automated reporting ecosystem
+# PrimeAutocare | A self-sustaining simulated vehicle service management, invoicing, and automated reporting ecosystem
 
 A vehicle service center management system, built as a portfolio project by a
 two-person team: [Inuka Wijerathna](https://github.com/InukaWijerathna) and
