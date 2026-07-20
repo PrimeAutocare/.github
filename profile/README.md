@@ -1,6 +1,6 @@
 # PrimeAutocare
 
-**Built once. Runs itself. Reports itself.**
+**Full-stack, serverless, and self-sustaining — a zero-touch platform with automated CI/CD and cron-driven reporting.**
 
 A vehicle service center management system, built as a portfolio project by a
 two-person team: [Inuka Wijerathna](https://github.com/InukaWijerathna) and
