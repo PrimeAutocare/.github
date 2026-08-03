@@ -1,7 +1,7 @@
 <div align="center">
   <img src="icon.png" alt="PrimeAutocare" width="140" />
 
-  # Service Management and Automated Reporting Ecosystem, Running on Simulated Activity.
+  # Service Management and Automated Reporting System Self-Sustained through Simulated Activity
 
 
 </div>
