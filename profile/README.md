@@ -59,21 +59,8 @@ for the full picture, including local setup.
 
 ---
 
-## 👥 Team
+## Team
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/InukaWijerathna">
-        <img src="https://github.com/InukaWijerathna.png" width="80" alt=""/><br/>
-        <b>Inuka Wijerathna</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/SenukaWijerathna">
-        <img src="https://github.com/SenukaWijerathna.png" width="80" alt=""/><br/>
-        <b>Senuka Wijerathna</b>
-      </a>
-    </td>
-  </tr>
-</table>
+- [Inuka Wijerathna](https://github.com/InukaWijerathna)
+- [Senuka Wijerathna](https://github.com/SenukaWijerathna)
+
