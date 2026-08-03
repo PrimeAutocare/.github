@@ -3,14 +3,17 @@
 
   # PrimeAutocare
 
+  **Service Management and Automated Reporting System Self-Sustained through Simulated Activity.**
+
   ![Banner](https://img.shields.io/badge/PrimeAutocare-Self--Sustaining_Garage_OS-D97706?style=for-the-badge&logo=carthrottle&logoColor=1a1a1a)
 
 </div>
 
-**PrimeAutocare** is a vehicle service center management, invoicing, and
-automated reporting ecosystem — a portfolio project built by a two-person team,
-designed to keep running, simulating activity, and reporting on itself with no
-human in the loop.
+**PrimeAutocare** is a vehicle service management and invoicing platform that
+runs itself — a portfolio project built by a two-person team where automated
+simulation generates realistic day-to-day activity and worklogs, and a
+zero-touch reporting pipeline turns that activity into business reports, with
+no human in the loop.
 
 ---
 
