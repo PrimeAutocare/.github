@@ -3,9 +3,7 @@
 
   # PrimeAutocare
 
-  **Service Management and Automated Reporting System Self-Sustained through Simulated Activity.**
-
-  ![Banner](https://img.shields.io/badge/PrimeAutocare-Self--Sustaining_Garage_OS-D97706?style=for-the-badge&logo=carthrottle&logoColor=1a1a1a)
+  ![Banner](https://img.shields.io/badge/Service_Management_and_Automated_Reporting_System_Self--Sustained_through_Simulated_Activity-F5AC29?style=for-the-badge)
 
 </div>
 
